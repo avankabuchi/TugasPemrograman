@@ -1,0 +1,21 @@
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.exe.config
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.exe
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.pdb
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csprojAssemblyReference.cache
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.Form1.resources
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.Properties.Resources.resources
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.GenerateResource.cache
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.CoreCompileInputs.cache
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.exe
+E:\if5\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.pdb
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.exe.config
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.exe
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\bin\Debug\aplikasiInputDataMhs.pdb
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.AssemblyReference.cache
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.Form1.resources
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.Properties.Resources.resources
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.GenerateResource.cache
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.exe
+D:\AMIKOM\SEMESTER 3\PEMROG LANJUT\Aplikasi-input-Tugas4.1-main\aplikasiInputDataMhs\aplikasiInputDataMhs\obj\Debug\aplikasiInputDataMhs.pdb
